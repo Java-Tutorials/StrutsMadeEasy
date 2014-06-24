@@ -1,0 +1,4 @@
+StrutsMadeEasy
+==============
+
+Struts
